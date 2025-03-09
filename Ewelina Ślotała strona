@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ewelina Ślotała - Życie i Twórczość</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.8;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        img {
+            width: 100%;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+        .book-list {
+            background: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        .gallery img {
+            width: calc(50% - 10px);
+            border-radius: 8px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            font-size: 14px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Ewelina Ślotała</h1>
+        <img src="https://tse4.mm.bing.net/th?id=OIP.nDWPyB5x7AO_q0yvUm6ZFQHaJP&pid=Api" alt="Ewelina Ślotała">
+        
+        <h2>O autorce</h2>
+        <p>Ewelina Ślotała (1989–2024) była polską pisarką, prawniczką i projektantką wnętrz. Zdobyła popularność dzięki książkom opisującym życie elit Konstancina.</p>
+        
+        <h2>Twórczość</h2>
+        <div class="book-list">
+            <h3>Najważniejsze książki:</h3>
+            <ul>
+                <li><strong>„Żony z Konstancina”</strong> – Książka odsłaniająca kulisy życia bogatych kobiet z ekskluzywnej dzielnicy.</li>
+                <li><strong>„Rozwódki z Konstancina”</strong> – Opowieść o kobietach, które po rozwodzie zaczynają nowe życie.</li>
+                <li><strong>„Matki z Konstancina”</strong> – Ukazuje wyzwania i rzeczywistość bogatych matek.</li>
+                <li><strong>„Żony z Konstancina. Kolejna książka”</strong> – Kontynuacja pierwszej części, jeszcze bardziej wnikliwa i kontrowersyjna.</li>
+                <li><strong>„Mężczyźni z Konstancina”</strong> – Jej najnowsza książka, ukazująca męski punkt widzenia na luksusowy świat.</li><b>Premiera ksiąki : odbedzie się 22 kwietnia nie zobaczymy ju jej uśmiechu i bedzie nam jej brakować </b>
+            </ul>
+        </div>
+        
+        <h2>Życie prywatne</h2>
+        <p>Z wykształcenia była prawniczką, ale jej pasją stało się projektowanie wnętrz. Była związana z piłkarzem Jakubem Rzeźniczakiem, a później z biznesmenem, z którym miała syna.</p>
+        
+        <h2>Galeria zdjęć</h2>
+        <div class="gallery">
+            
+            <img src="IMG_0940.JPG">
+            <img src="Obrazek.jpg" alt="" srcset="" width="200" 
+            <img src="IMG_0938.WEBP"  <img src="https://www.weranda.pl/uploads/media/default/0001/12/fca1be26556e30fd20a929cb6a66f27bfc39d252.jpeg">
+        </div>
+        
+        <h2>Śmierć</h2>
+        <p>Ewelina Ślotała zmarła 17 grudnia 2024 roku w wieku 35 lat. Przyczyną zgonu był krwotok wewnętrzny prowadzący do zatrzymania akcji serca. Osierociła 9-letniego syna.</p>
+        
+        <footer>
+            <p>&copy; 2025 Wspomnienie o Ewelinie Ślotałej | Wszystkie prawa zastrzeżone <br>Stworzono przez Bartłomieja Majchrzaka.</p>
+        </footer>
+    </div>
+</body>
+</html>
